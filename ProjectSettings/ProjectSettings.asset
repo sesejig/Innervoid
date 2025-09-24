@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 565852d9c7fa7794885b5f7290c03094
+  productGUID: 8141b2cfb31d2da4494ac8dc8ffef94f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: INNER_VOID
+  productName: Innervoid
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -86,7 +86,6 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
-  audioSpatialExperience: 0
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -843,14 +842,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: INNER_VOID
+  metroPackageName: Innervoid
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: INNER_VOID
+  metroApplicationDescription: Innervoid
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -921,11 +920,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: fbc40934-7f22-4de7-9f08-f92cf4f4306e
+  cloudProjectId: c61d7370-bcc2-4fbe-80b5-6e522c9917bc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: INNER_VOID
-  organizationId: unity_42d122460317c039fbe9
+  projectName: Innervoid
+  organizationId: unity_trf30hnvne-pza
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
